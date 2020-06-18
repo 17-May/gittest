@@ -1,4 +1,6 @@
 ul {
     width: 100px;
     height: 200px;
+    background: red;
+    color: yellow;
 }
